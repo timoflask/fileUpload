@@ -1,0 +1,2 @@
+.viewer{width:100%;height:100vh;position:relative}.viewer__navBar{position:fixed;z-index:100;height:90%;width:20%;left:2%;top:5%;background-color:rgba(17,34,51,.356);color:#fff}.viewer__navBar__item{display:flex;justify-content:center;align-items:center;padding:10px;position:relative}.viewer__navBar__item .desc{padding:0 10px;width:40%;text-align:right}.viewer__navBar__item .form-control{width:60%}model-viewer{width:100%;height:100vh;background-color:#70bcd1;--poster-color:hsla(0,0%,100%,0)}body{margin:0;overflow:hidden}
+/*# sourceMappingURL=main.9a52b8ff.chunk.css.map */
